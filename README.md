@@ -1,5 +1,5 @@
-# AI Pair Programming with GitHub Copilot X
-This is the repository for the LinkedIn Learning course AI Pair Programming with GitHub Copilot X. The full course is available from [LinkedIn Learning][lil-course-url].
+# AI Pair Programming with GitHub Copilot
+This is the repository for the LinkedIn Learning course AI Pair Programming with GitHub Copilot. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![AI Pair Programming with GitHub Copilot X][lil-thumbnail-url] 
 
